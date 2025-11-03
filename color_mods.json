@@ -1,6 +1,13 @@
 {
   "annotations": {
     "map_monsters_reflect_%_physical_damage": "heiststolenitem",
-    "map_monsters_reflect_%_elemental_damage": "heiststolenitem"
+    "map_monsters_reflect_%_elemental_damage": "heiststolenitem",
+    "map_monsters_immune_to_a_random_status_ailment_or_stun": "heiststolenitem",
+    "map_monster_action_speed_cannot_be_reduced_below_base": "heiststolenitem",
+    "map_monster_movement_speed_cannot_be_reduced_below_base": "heiststolenitem",
+    "map_player_no_regeneration": "heiststolenitem",
+    "map_player_status_recovery_speed": "heiststolenitem",
+    "map_players_no_regeneration_including_es": "heiststolenitem",
+    "map_additional_player_maximum_resistances_%": "heiststolenitem"
   }
 }
