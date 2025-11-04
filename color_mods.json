@@ -42,12 +42,8 @@
 
     "life_mana_es_recovery_rate_+%_per_endurance_charge": "corrupted",
     "global_defences_+%_per_frenzy_charge": "corrupted",
-    "critical_strike_multiplier_+_per_power_charge": "corrupted",
+    "critical_strike_multiplier_+_per_power_charge": "talismanmod",
     "random_projectile_direction": "corrupted",
-    "base_cold_damage_resistance_%": "corrupted",
-    "base_lightning_damage_resistance_%": "corrupted",
-    "base_fire_damage_resistance_%": "corrupted",
-    "base_chaos_damage_resistance_%": "corrupted",
 
     "chance_%_to_drop_additional_divine_orb": "rareitem",
     "chance_%_to_drop_additional_exalted_orb": "rareitem",
