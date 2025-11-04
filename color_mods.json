@@ -3,6 +3,23 @@
 //  }
 //}
 
+/*
+"rareitem" - yellow
+"corrupted" - red
+"chaos" - purple
+"uniqueitem" - brown
+"bestiarymod" - white
+"divination" - blue
+"heiststolenitem" - red (same as corrupted)
+"nemesismod" - dark yellow
+"bloodlinemod" - purple
+"fractured" - light brown
+"necropolisupside" dark yellow (same as nemesismod)
+"talismanmod" - green
+"title" - cream color (looks like fractured)
+"hellscaped" - orange
+*/
+
 {
   "annotations": {
     "map_monsters_reflect_%_physical_damage": "bestiarymod",
