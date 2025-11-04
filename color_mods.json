@@ -22,12 +22,12 @@
 
 {
   "annotations": {
-    "map_monsters_reflect_%_physical_damage": "bestiarymod",
-    "map_monsters_reflect_%_elemental_damage": "divination",
+    "map_monsters_reflect_%_physical_damage": "heiststolenitem",
+    "map_monsters_reflect_%_elemental_damage": "heiststolenitem",
     "map_players_no_regeneration_including_es": "heiststolenitem",
     "map_monsters_avoid_elemental_ailments_%": "nemesismod",
     "map_additional_player_maximum_resistances_%": "heiststolenitem",
-    "map_player_life_and_es_recovery_speed_+%_final": "bestiarymod",
+    "map_player_life_and_es_recovery_speed_+%_final": "heiststolenitem",
     "map_player_cannot_expose": "heiststolenitem",
     "map_player_non_curse_aura_effect_+%": "nemesismod",
     "map_monsters_cannot_be_leeched_from": "bloodlinemod",
